@@ -9,6 +9,7 @@ public class AppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AppApplication.class, args);
 		System.out.println("Haiii");
+		System.out.println("edited in master");
 	}
 
 }
